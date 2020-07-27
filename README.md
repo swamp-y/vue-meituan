@@ -1,6 +1,6 @@
 # 仿美团外卖（web）
 
-## 使用cli4脚手架工具，stylus预处理器，cube-ui组件库，vue-router作为主界面tab栏切换，axios作为http库
+## 使用cli4脚手架工具、stylus预处理器、cube-ui组件库，vue-router作为主界面tab栏切换，axios作为http库
 
 ## 一、主体框架搭建
 ### 1、主页使用flex布局，内部container为 
