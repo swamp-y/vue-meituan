@@ -1,17 +1,24 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div class="container">
+        <div class="container-main">
+          <router-view></router-view>
+        </div>
+        <footerbar></footerbar>
+    </div>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import footerbar from './components/footerbar/footerbar'
 export default {
-  name: 'App',
+  name: 'app',
+  data () {
+    return {
+    }
+  },
   components: {
-    HelloWorld
+    footerbar
   }
 }
 </script>
@@ -23,5 +30,13 @@ export default {
   -moz-osx-font-smoothing grayscale
   text-align center
   color #2c3e50
-  margin-top 60px
+  height 100%
+  .container
+    height 100%
+    display flex
+    flex-direction column
+    .container-main
+      flex 1
+      width 100%
+      overflow scroll
 </style>
