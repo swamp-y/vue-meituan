@@ -1,7 +1,7 @@
 const webpack = require('webpack')
 const path = require('path')
 const appData = require('./data.json')
-const seller = appData.seller
+const sellers = appData.sellers
 const goods = appData.goods
 const ratings = appData.ratings
 const sellertype = appData.sellertype
@@ -25,10 +25,10 @@ module.exports = {
   },
   devServer: {
     before(app) {
-      app.get('/api/seller', function (req, res) {
+      app.get('/api/sellers', function (req, res) {
         res.json({
           errno: 0,
-          data: seller
+          data: sellers
         })
       })
       app.get('/api/goods', function (req, res) {

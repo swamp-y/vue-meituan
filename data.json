@@ -51,6 +51,98 @@
       "link":"https://p1.meituan.net/jungle/dfd03fd91f640682c16179ba85837f739679.png"
     }
   ],
+  "sellers": [
+    [
+      {
+        "title": "绝味鸭脖",
+        "img": "https://p1.meituan.net/waimaipoi/a8bd7b1e8c67d95481715f280c104bb5127001.jpg@180w_132h_1e_1c?cimage=true",
+        "score": 4.0,
+        "yueshou": 500,
+        "min":54,
+        "km":4,
+        "qisong":15,
+        "peisong":5,
+        "renjun": 20
+      },
+      {
+        "title": "杨国福麻辣烫（广西路店）",
+        "img": "https://p0.meituan.net/waimaipoi/6ebf755b1451e9188fc9ffcb48c9172a42490.jpg@180w_132h_1e_1c?cimage=true",
+        "score": 4.8,
+        "yueshou": 300,
+        "min":44,
+        "km":6,
+        "qisong":15,
+        "peisong":6,
+        "renjun": 28
+      },
+      {
+        "title": "鲍鱼跳墙饭",
+        "img": "https://p0.meituan.net/business/43bd9dbad31fe31a98d1e07bff05d1ff445119.jpg@180w_132h_1e_1c?cimage=true",
+        "score": 4.7,
+        "yueshou": 509,
+        "min":34,
+        "km":2,
+        "qisong":15,
+        "peisong":5,
+        "renjun": 27
+      },
+      {
+        "title": "永和大王",
+        "img": "https://p1.meituan.net/waimaipoi/ac177d11f33cfcd0c887f89bb28123ab25226.jpg",
+        "score": 3.0,
+        "yueshou": 500,
+        "min":54,
+        "km":4,
+        "qisong":15,
+        "peisong":5,
+        "renjun": 20
+      },
+      {
+        "title": "麦当劳麦乐送",
+        "img": "https://p1.meituan.net/xianfu/aa86bc1b9a218ea5e094b861c03b59b94873.jpg@180w_132h_1e_1c?cimage=true",
+        "score": 2.0,
+        "yueshou": 500,
+        "min":54,
+        "km":4,
+        "qisong":15,
+        "peisong":5,
+        "renjun": 20
+      },
+      {
+        "title": "创意十足烧烤店",
+        "img": "https://p1.meituan.net/business/cc5ea92d8519860bff610493fc8ec8c7747695.png@180w_132h_1e_1c?cimage=true",
+        "score": 1.0,
+        "yueshou": 500,
+        "min":54,
+        "km":4,
+        "qisong":15,
+        "peisong":5,
+        "renjun": 20
+      },
+      {
+        "title": "豆浆夜市",
+        "img": "https://p0.meituan.net/waimaipoi/cb9c80d4599d596def0ba13eaab34ebb58182.jpg@180w_132h_1e_1c?cimage=true",
+        "score": 4.0,
+        "yueshou": 500,
+        "min":54,
+        "km":4,
+        "qisong":15,
+        "peisong":5,
+        "renjun": 20
+      },{
+        "title": "张亮麻辣烫",
+        "img": "https://p0.meituan.net/waimaipoi/bddc1f17e4f53ca6098764972f7bed6540493.jpg@180w_132h_1e_1c?cimage=true",
+        "score": 5.0,
+        "yueshou": 5500,
+        "min":54,
+        "km":4,
+        "qisong":35,
+        "peisong":5,
+        "renjun": 240
+      }
+
+    ]
+  ],
   "seller": {
     "name": "粥品香坊（回龙观）",
     "description": "蜂鸟专送",

@@ -1,4 +1,4 @@
-# 仿美团外卖（web）
+# 仿美团外卖（web）一比一纯个人手写
 
 ## 使用cli4脚手架工具、stylus预处理器、cube-ui组件库，vue-router作为主界面tab栏切换，axios作为http库
 
